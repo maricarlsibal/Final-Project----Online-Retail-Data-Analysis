@@ -25,4 +25,4 @@ UCI Machine Learning Repository – [Online Retail Dataset](https://archive.ics.
 
 ## Author
 **Maricarl Sibal**  
-Final Project Submission – May 13, 2025
+May 13, 2025
